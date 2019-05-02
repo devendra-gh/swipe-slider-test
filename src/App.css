@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+h3 {
+    padding-top: 30px;
+    font-size: 30px;
+    text-align: center;
+}
